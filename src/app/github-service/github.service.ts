@@ -6,8 +6,8 @@ import { map } from 'rxjs/operators';
 @Injectable()
 export class GitsearchService {
   private username:string;
-  private clientid = 'cc4994abdd5a';
-  private clientsecret = '63c6a8d051cbdc669ec6819d380f';
+  private clientid = '75fbc3436ae7b2cacc1c';
+  private clientsecret = '3865052f662ff45e88db544725eedad0c1424758';
 
   constructor(private http:HttpClient) { 
     console.log("service works");
