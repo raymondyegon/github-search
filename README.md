@@ -1,10 +1,10 @@
 # Quotes
 
-#### This is a web page where users can read and even post their quotes. (c) 2019
+#### This is a web page where a person can search for a github user by typing in their names. (c) 2019
 #### By **Raymond Yegon**
 ## Description
 
-The website is built using Angular framework and bootstrap for styling. The website help users to .
+The website is built using Angular framework and bootstrap for styling. The website help users to search people on github through their typing in their github names.
 
 ## Setup Requirements
 
